@@ -1,6 +1,7 @@
 class App {
     static void main(String[] args) {
-//        Task1Bot.crawl()
+        Task1Bot.crawl()
         Task2Bot.crawl()
+        Task3Bot.crawl()
     }
 }
